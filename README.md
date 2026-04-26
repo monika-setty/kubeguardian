@@ -41,4 +41,4 @@ minikube service kubeguardian-service --url
 - Minikube
 
 ## Author
-Mounika — aspiring Google SWE
+CloudKueen
